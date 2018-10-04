@@ -1,0 +1,21 @@
+﻿  ValiderNumerique.cpp
+  Vaisseau.cpp
+  UIKit.cpp
+d:\isi\p61\projets\tpspaceinvaders\tpspaceinvaders\uikit.cpp(107): warning C4838: la conversion de 'int' en 'SHORT' requiert une conversion restrictive
+  TableauLaser.cpp
+  SpaceMain.cpp
+d:\isi\p61\projets\tpspaceinvaders\tpspaceinvaders\spacemain.cpp(33): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+d:\isi\p61\projets\tpspaceinvaders\tpspaceinvaders\spacemain.cpp(397): warning C4129: ' ' : caractère de séquence d'échappement non reconnu
+  Regles.cpp
+  Menu.cpp
+  Martien.cpp
+  Laser.cpp
+  Kryptonien.cpp
+  Infestateur.cpp
+  MartienVert.cpp
+  LaserET.cpp
+  ExtraTerrestre.cpp
+  Coord.cpp
+  Génération de code en cours...
+  TPSpaceInvaders.vcxproj -> D:\ISI\P61\Projets\TPSpaceInvaders\Debug\TPSpaceInvaders.exe
+  TPSpaceInvaders.vcxproj -> D:\ISI\P61\Projets\TPSpaceInvaders\Debug\TPSpaceInvaders.pdb (Partial PDB)
